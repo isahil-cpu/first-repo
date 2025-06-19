@@ -1,1 +1,0 @@
-This is the Pull commands file.And it is the use for data cloning through orgin to local system.
